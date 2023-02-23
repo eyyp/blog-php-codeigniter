@@ -1,0 +1,41 @@
+.center-my
+{
+    text-align: center;
+}
+
+ul.demo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.aContainer{
+    width: 90%;
+    height: 90%;
+    padding-left: 100px;
+}
+
+.job{
+    font-size:900;
+}
+
+.toonRow{
+    width: 10px;
+    height: 50px;
+    margin-right: 20px;
+    background-color: #67b168;
+}
+
+.buttonGray{
+    background-color:#9A9A9A;
+    padding: 12px;
+    color:white;
+    border-radius: 5px;
+}
+
+.buttonSuccess{
+    background-color:#67b168;
+    padding: 12px;
+    color:white;
+    border-radius: 5px;
+}
